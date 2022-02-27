@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loyalty speakes truth or, a conference of the grand mercvries, pragmaticus, melancholicus, and elenticus, concerning the present condition of his Majesty, and the proceedings of this blessed Parliament.</title>
+            <author>Nedham, Marchamont, 1620-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89884</idno>
+            <idno type="STC">Wing N395</idno>
+            <idno type="STC">Thomason E422_14</idno>
+            <idno type="STC">ESTC R204803</idno>
+            <idno type="EEBO-CITATION">99864265</idno>
+            <idno type="PROQUEST">99864265</idno>
+            <idno type="VID">161387</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89884)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161387)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E422[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Loyalty speakes truth or, a conference of the grand mercvries, pragmaticus, melancholicus, and elenticus, concerning the present condition of his Majesty, and the proceedings of this blessed Parliament.</title>
+                  <author>Nedham, Marchamont, 1620-1678.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. Attributed to Marchamont Nedham.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Imperfect: staining.</note>
+                  <note>Annotation on Thomason copy: "Jan: 10th 1647"; the "8" in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:161387:1" rendition="simple:additions"/>
+            <head>Loyalty ſpeakes Truth:</head>
+            <head type="sub">OR, A CONFERENCE of the Grand MERCVRIES, <hi>Pragmaticus, Melancholicus,</hi> and <hi>Elenticus,</hi> Concerning the preſent condition of his Majeſty, and the proceedings of this bleſſed <hi>Parliament.</hi>
+            </head>
+            <head type="sub">1648 <add>Jan: 10<hi rend="sup">th.</hi>—1647</add>
+            </head>
+            <sp>
+               <speaker>PRagmaticus,</speaker>
+               <p>How now man, how doe you looke, like a man had ſet an errant from <hi>Limbo Patrum,</hi> or beene cruſh'd betweene the gates of Death of late: whence is the apparition of your countenance ſo fearfull unto me, what unheard-of calamity hath ſo much prevented the hopes of your future health, that you ſeeme to be as it were both a<g ref="char:EOLhyphen"/>live and dead together.</p>
+            </sp>
+            <sp>
+               <speaker>Melanch.</speaker>
+               <p>Health <hi>Pragmaticus</hi> how can that be expected, when all things are in ſo deſperate a ſtate of Diſ<g ref="char:EOLhyphen"/>eaſe that the world may ſeem diſtempered with a continuall Phle<g ref="char:EOLhyphen"/>botomie.</p>
+            </sp>
+            <sp>
+               <speaker>Pragm.</speaker>
+               <p>The world man, thats nothing to you, nor me:
+<pb n="2" facs="tcp:161387:2"/>
+But what newes there whence you came of late, at <hi>London,</hi> is there any thing there that is cauſe of your penſiveneſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Mel.</speaker>
+               <p>Yes verily, there &amp; here, and every where.</p>
+            </sp>
+            <sp>
+               <speaker>Prag.</speaker>
+               <p>Why, what's that.</p>
+            </sp>
+            <sp>
+               <speaker>Mel.</speaker>
+               <p>Why if this be not a ſubject of grief, I know not what is: I meane, firſt, to ſee all Supremacy and Majeſty diſhonoured, and ſit lamented; la<g ref="char:EOLhyphen"/>monting I ſhould have ſaid, among the captivated of the times; to ſee all Magiſtracy neglected and trampled under foot, by thoſe, that are wel-wiſhers to none but themſelves; to ſee what Diviſions, o<g ref="char:EOLhyphen"/>pen contradictions, clancular deviſes, and ſubtle underminings whereby to extirpate all freedome, and by the force of conti<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uall working deſignes, to blow up the very foundation of Liberty and lawfull Priviledges. O ſtrange cruelty! O unheard of impiety; more Monſters in nature now, then Counſellors in Court or wiſe<g ref="char:EOLhyphen"/>men at <hi>Weſtminſter</hi> (except thoſe only that doe us good) ſome cry no <hi>King</hi> no <hi>King;</hi> and intimate as much by their deportment, that they would all faine weare Crownes (and be Kings) on their own heads ſo long as they weare them: Theſe having by their new-born power (which is nothing elſe, but the curtain-drawing of a coming Chaos) made obſcure the glory of radiant <hi>Titans</hi> deſire, that <hi>Phae<g ref="char:EOLhyphen"/>ton</hi> alſo may take notice, if hee dare re-aſſume the Charior, hee is like to be diſmounted if they can doe it, and they ſet the world on fire againe; for if hee be ſo bold to come among them, he muſt dreame of a Kingdom, as little as <hi>Saul</hi> did, when hee went to ſeeke his fathers Aſſes. But ſome againe there are, which run as farre on another extream and cry, no <hi>Parliament,</hi> no <hi>Parliament,</hi> and would expell all ſuch Authority as they doe their ghoſtly Father with Cru<g ref="char:EOLhyphen"/>cifixes and Holy-water; Theſe are ſo inveterate, that although they many times uſe as many Benedictions, to drive away the Divell, as Pope <hi>Ioane</hi> did in Sanctification of that young Cardinall in her wombe; yet can they be very well content with his company while they curſe the Parliament, with Bell, book, and candle. Surely they thinke they are as bad, as that concaved company of Red-headed Crocadiles; and to ſpeake the truth (but onely becauſe they are ve<g ref="char:EOLhyphen"/>ry devout) the States have melted ſo many of their Tapers into Commiſſions, and on the wickes thereof, have made ſuch Matches
+<pb n="3" facs="tcp:161387:2"/>
+on their ſide that by this time, they may have learned to pray for them by Day-light. Theſe are ours and the Kingdomes enemies; and the other Friends, neither to Parliament nor Army: and if all parts ill-affected (I meane in the Body politique) with ſuch diſtem<g ref="char:EOLhyphen"/>pers, nay gangreen'd with ſuch Diſeaſes, and no Phyſician, no cure; no remedy probable, or probably conceivable, unto what prodegies, and growth in miſeries on our ſide may our enemies perſevere a<g ref="char:EOLhyphen"/>gainſt us.</p>
+            </sp>
+            <sp>
+               <speaker>Elenticus.</speaker>
+               <p>The more <hi>Miſerable</hi> is our condition; truth it is which you have now ſpoken: wee have a ſeeming Peace, and in this peace, there is ſo cruell warring, by differences in judge<g ref="char:EOLhyphen"/>ment, of actions paſt, opinions concerning <hi>Religion,</hi> and hopes of what ſhall bee the cunning events of things; that it may rather ſeeme a ceſſation of Armes, eyther to molliſie our hearts, or elſe a reſpiration only; that our Enemies, nay our ſelves may take breath to bee more cruell hereafter, and ſtudy to be more inhumane one towards another; and <hi>Melancholicus,</hi> although you have given ſuch a ſummary demonſtration of our Condition, leſſe then which by a great deale, is too, too ſufficient, to make a people more then ordinarily <hi>miſerable;</hi> yet there are many conſequences ortive, from our great <hi>Diſtractions</hi> and ſad differences, which lye upon us as burthens inſufferable, more then the generall ſtate, or our particu<g ref="char:EOLhyphen"/>lars are able to beare, without <hi>ſinking</hi> under them: Truly what Peace can wee expect, or what amendment of theſe things, ſo long as the Whoredomes of <hi>Iezabell</hi> remaine; ſo long as Pride can vaunt in our ſtreers, without ſo much as a check for its Selfiſhneſſe, as if it were (as it is indeed) independent upon all vertue (becauſe nothing to doe therewith) claime the Superiority of the greateſt and higheſt Places to her ſelfe; neither is ſhee now (as formerly) content with Temporall preferment only (but becauſe the Houſe is devided againſt it ſelfe, ſteps in, and attempts Eccleſiaſticall alſo; and being moſt of all Independent, ſhe matters not much, whether Lawne-ſleeves, or long Beards, or both, bee the reſt of her Atten<g ref="char:EOLhyphen"/>dants; nay, what Peace can wee expect, ſo long as Covetouſneſſe it ſelfe muſt be for the moſt part the Regulator of all things; and becauſe it hath an aptitude to keepe what it hath got, it muſt bee
+<pb n="4" facs="tcp:161387:3"/>
+made Collector of the publique treaſure; Commiſſary to the Ar<g ref="char:EOLhyphen"/>my, and Chaire-man; or chiefe, in almoſt every Committee, and being growne proud, in that ſhee is a Parliament mans compa<g ref="char:EOLhyphen"/>nion, it being in her power, ſhee hath made her eldeſt daughter Extortion, a Sequeſtrator alſo; and becauſe the Court ſhould bee more free from laviſh Expences (then formerly, whereby to no<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>riſh Vice) the royall Revenues are (by her) employed, to uſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more profitable to the Kingdome; and hence it is, that the King<g ref="char:EOLhyphen"/>dome is ſo full of congeſted riches, men have enough and to lay up, and to buy lands beſides, to take opportunity for goods bargines themſelves; though contrary to the Ordinance of Parliament, yea to buy the goods, and Chattells, of Delinquents, to ſet the eſtates of Malignants, for the States profit, to Farme them, at caſie rates; and becauſe cuſtome hath changed this courſe, into the nature, of Com<g ref="char:EOLhyphen"/>mittee men, they can judiciouſly (I can deeme it, no leſſe, then prudence) winke, at each others deviation from the Ordinance which commands that no Committee-man, or any belonging to any Committee-man<g ref="char:punc">▪</g> ſhould have the uſe, of any ſequeſtra<g ref="char:EOLhyphen"/>tions for their own profit, and ſo they drive a fine trade out, and want nothing, but only, that ruſticke <hi>Pan</hi> would be pleaſed to grant them, as hee did <hi>Midas,</hi> to have what they could wiſh for his ridiculus judgement, but yet, it may be, <hi>Apollo</hi> may be angry with them<g ref="char:punc">▪</g> and clap, a paire of Aſſes eares, hornes, upon their heads; if once reeds would growe in the Committee chamber that would be knowen too: but only that I believe the Deanery will not goe down, ſo ſoone, as the leaden ſteeple, if all be true as is reported, what did you heare <hi>Melancholicus,</hi> concerning that buſineſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Mel.</speaker>
+               <p>I heard that there was an Order for the pulling of it down; and that it ſhould part of it, be emplyed to repaire the City ſtock, which was empaired, by your Cavaliers by ſo voluntary conceſſion of moneys contributing the ſame, to theſe that were the Kingdomes, and our enemies. <hi>Prag.</hi> Cavaliers? who are the Kingdomes enemies now I pray you, now poore Cavaliers trouble you not.</p>
+            </sp>
+            <sp>
+               <speaker>Elenticus.</speaker>
+               <p>Verily the cauſe of the comming of Gods judge<g ref="char:EOLhyphen"/>ments upon a people is ſin only; and we had warre ſent upon
+<pb n="5" facs="tcp:161387:3"/>
+us as, a judgement for ſin, yet we repent not truely; thoſe that we called Cavaliers (this I think) were in<g ref="char:EOLhyphen"/>ſtruments of Gods wrath to ſcourge us then: and it is much to be feared, we have manifeſted ſo little thankfulneſſe to<g ref="char:EOLhyphen"/>wards God for mercies paſt, and not regarded his great Deliverances, that except a ſudden repentance, God will find him another Servant, and us another Enemy to exe<g ref="char:EOLhyphen"/>cure his judgement upon us; and therefore I deſire that the Spirit of <hi>bitterneſſe</hi> ſhould ceaſe to remaine among us, and then wee might live to ſee our Land flouriſh, in Peace and Truth once againe.</p>
+            </sp>
+            <sp>
+               <speaker>Prag.</speaker>
+               <p>Yes, but hearke you, doe you thinke if the <hi>Ca<g ref="char:EOLhyphen"/>valiers</hi> had got the <hi>better,</hi> wee ſhould not have beene in a better condition then we are now.</p>
+            </sp>
+            <sp>
+               <speaker>Mel.</speaker>
+               <p>Truly I thinke if the Papiſts had got the better<g ref="char:punc">▪</g> Gods people would have gone all to <hi>fire</hi> and <hi>fagot;</hi> and although our condition bee at this time very hard in reſpect of Taxes and impoſures, which the neceſſity of the State may ſeeme to require, yet ſeem happy (if ſo be the moneys ſo collected, were put to a right uſe, no queſtion we ſhould have a ſettled peace ere long) in relarion to what we might have ſuffered.</p>
+            </sp>
+            <sp>
+               <speaker>Prag.</speaker>
+               <p>Taxes; yea marry Taxes indeed, when the Earle was here, then here was come lend money to bring the King to London; but now they have him, they meane not that he ſhall come there; and then they had the Publike Faith, for their money, but that ſhall be all I warrant you, and then there was Contribution, as long as men were able to pay it: and after that came Exciſe, and the new found pollings, but I heard the other day, that the Exciſe was down? what? did you here of it.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:161387:4"/>
+               <speaker>Melanch.</speaker>
+               <p>It is not downe, but ſtronger up then ever, onely there bee not ſo many Commiſſioners as they were.</p>
+            </sp>
+            <sp>
+               <speaker>Prag.</speaker>
+               <p>Why?</p>
+            </sp>
+            <sp>
+               <speaker>Mel.</speaker>
+               <p>I know not.</p>
+            </sp>
+            <sp>
+               <speaker>Prag.</speaker>
+               <p>Who are <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut now.</p>
+            </sp>
+            <sp>
+               <speaker>Mel.</speaker>
+               <p>There is Mr. <hi>Vincent</hi> out.</p>
+            </sp>
+            <sp>
+               <speaker>Prag.</speaker>
+               <p>Why how comes that to paſſe, he was the beſt of them all, and if a man could bee ho<g ref="char:EOLhyphen"/>neſt in ſuch a place, hee was an honeſt man (I thinke) and I thinke he had the love of the Countrey more then any, J am ſure he had of the City; if hee's gone out, it was becauſe hee would goe out.</p>
+            </sp>
+            <sp>
+               <speaker>Elenticus,</speaker>
+               <p>I heard him ſay hee would not ſtay in with ſuch Partners.</p>
+            </sp>
+            <sp>
+               <speaker>Prag.</speaker>
+               <p>Hee was the chiefeſt of them all<g ref="char:punc">▪</g> I thinke.</p>
+            </sp>
+            <sp>
+               <speaker>Elent.</speaker>
+               <p>Nay, Mr. <hi>Coilier</hi> was firſt in Commiſſion if I am not miſtaken.</p>
+            </sp>
+            <sp>
+               <speaker>Prag.</speaker>
+               <p>
+                  <hi>Collier,</hi> hee was but a bom-baſted Taylor, he ſate hum drum alwayes, when I went to pay my money, and did ſcarce ſo much as ſay <hi>Bee</hi> to a Gooſe; I knew him a good while ſince and his wife too, and her Father the Thatcher.</p>
+            </sp>
+            <sp>
+               <speaker>Mel.</speaker>
+               <p>Truly that makes things in that caſe they bee, when men meddle with that<g ref="char:punc">▪</g> they know not what belongs unto, as the Proverbe is, Set a Sow to play on a Fiddle. There is Mr. <hi>Writer,</hi> and <hi>Careleſſe,</hi> in with him ſtill, but Mr. <hi>Freeſton</hi> is out.</p>
+            </sp>
+            <sp>
+               <speaker>Elent.</speaker>
+               <p>Hee out, why there is Mr. <hi>Writer,</hi> it's true, hee was ill ſpoken of, when <hi>Rainsbo<g ref="char:EOLhyphen"/>rough</hi> men came firſt into Towne; but I thinke he is an in<g ref="char:EOLhyphen"/>different honeſt man, and a great ſuffering man; and 'tis fit ſuch men ſhould bee employed in ſuch places, if ſome muſt; but only that hee cannot find his braines ſometimes, when hee hath need of them.</p>
+            </sp>
+            <sp>
+               <speaker>Prag.</speaker>
+               <p>But they ſay, <hi>Careleſſe</hi> is in Commiſſion before <hi>Writer.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Elent.</speaker>
+               <p>How comes that to paſſe; <hi>Careleſſe,</hi> is but a fellow of a ſervile Condition, ſtart up I know not how in theſe times, when all honeſt men were rather looſers then ſavers; and the truth is, I know the mans Conditions ſo well, that for his Severity, he ſhould better bee a Hang-man. (nay pardon me now, I am too groſſe, hee is a States Officer) I meane, an Executor of ju<g ref="char:EOLhyphen"/>ſtice; for I am ſure, hee knowes to whip a Begger well e<g ref="char:EOLhyphen"/>nough ſince he was Conſtable; and for want of a Beadle did
+<pb n="7" facs="tcp:161387:4"/>
+it himſelfe: what doe you laugh at<g ref="char:punc">▪</g>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prag.</speaker>
+               <p>Ile tell you what at, a pretty compariſon, as there was one made<g ref="char:punc">▪</g> of one of our Committee men the other day; which was, that as hee ſaid he read of one <hi>Tyreſiss,</hi> whom the gods being angry withall, transformed from a Man to a Woman, at length when <hi>Iupiter</hi> and <hi>Iuno</hi> fell at variance, whether was more prone to luſt, a Man or Woman, they choſe this <hi>Tyreſias</hi> to decide the matter, becauſe hee had knowne the nature of both kinds: So, if a man aske me, whether is the honeſter man, a Cavaliere or a Roundhead, I ſhall bid goe and aske <hi>Careleſſe;</hi> becauſe hee hath been of both ſorts.</p>
+            </sp>
+            <sp>
+               <speaker>Mel.</speaker>
+               <p>Such men are not fit for the Publique ſervice, however crept in.</p>
+            </sp>
+            <sp>
+               <speaker>Elent.</speaker>
+               <p>Nay, what a ſlavery are wee in, when ſuch men ſhall not onely rule, but raigne over us: Slavery (I) none but ſuch fooles, as wee be would endure it.</p>
+            </sp>
+            <sp>
+               <speaker>Mel.</speaker>
+               <p>J will tell you what we ſhall doe, wee will Petition <hi>Adem Naſh;</hi> that when hee ſpeaketh nex<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the Houſe, it would pleaſe his worſhip to make knowne to the Houſes, that there, a ſort of Men, which having already taken away the munificentiall parts of our City, are now alſo, about to demoliſh, the Spirituall ha<g ref="char:EOLhyphen"/>bitations of our Soules, and have long ſince extirpated their out-workes of defence (our Miniſters) inſomuch, that on laſt Sabboth, there was not one Sermon in the whole City, but at the Colledge only, becauſe that is the next way to heaven, which they will teach us now after Chriſtmaſſe ſo perfect, that wee ſhall not need the leaden Steeple for the firſt ſtep; there<g ref="char:EOLhyphen"/>fore that to bee cumulated into a legion of Angels, for a con<g ref="char:EOLhyphen"/>tinuall conduct of the City thither, and the reliefe of the Poore, according to their Charity: Further, that there is not ſo ſmall eſtimation of affection among us<g ref="char:punc">▪</g> as to bee bought and ſold, by a Committee of partiall Iudges, and yet hold our peace; Therefore, wee deſire that it may be Orde<g ref="char:EOLhyphen"/>red, that we may have a honeſter Committee<g ref="char:punc">▪</g> or better Round-heads: And alſo that the collection of Exciſe, bee ſomewhat regulated; for when wee bring our moneys to
+<pb n="8" facs="tcp:161387:5"/>
+the Office, there is a fellow lookes ſo bigge upon us, that we<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dare not, for his eares, diſpleaſe him, for feare of a <hi>Hocus, Pocus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pragmat.</speaker>
+               <p>Nay, let us begge too, that no Citizen <hi>Cavaliere,</hi> ſhall bee ever an enfranchized Round-head, ex<g ref="char:EOLhyphen"/>cept hee voluntarily forfeit his Eares to the Pillory, at ſeaven or eight eares end, according to the growth of the ſame, and that whereas it hath beene a great propagation to the good of this City, and much accommodation in neceſſity, that a good number of Horſes, bee alwayes kept ready and well look't to; it is deſired, that it bee ſo ſtill, otherwiſe the generation of Aſſes, which now ride upon us, will ſo in<g ref="char:EOLhyphen"/>greaſe and multiply, that their eares, may be taken for hornes, among—</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
